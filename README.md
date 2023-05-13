@@ -1,4 +1,8 @@
+
+
 # Solid Principles
+
+
 
 Este repositório contém práticas que englobam os conceitos básicos dos princípios SOLID, sendo eles:
 
